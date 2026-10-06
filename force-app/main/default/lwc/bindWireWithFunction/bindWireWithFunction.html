@@ -1,0 +1,21 @@
+<template>
+    <lightning-card title="Bind with Function">
+
+        <template if:true={accounts}>
+
+            <template for:each={accounts} for:item="account">
+
+                <div key={account.Id} class="slds-m-around_small">
+                    {account.Name}
+                </div>
+
+            </template>
+             <div class="slds-m-around_medium">
+                    
+                {error}
+                </div>
+
+        </template>
+
+    </lightning-card>
+</template>

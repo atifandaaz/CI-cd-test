@@ -1,0 +1,204 @@
+{
+    "fileVersion": 0,
+    "serverMaxRevisionCounter": 54,
+    "sourceMembers": {
+        "Profile__Admin": {
+            "memberType": "Profile",
+            "serverRevisionCounter": 50,
+            "lastRetrievedFromServer": 50,
+            "isNameObsolete": false
+        },
+        "CustomField__HTTPCalloutConfiguration__mdt.Body__c": {
+            "memberType": "CustomField",
+            "serverRevisionCounter": 8,
+            "lastRetrievedFromServer": 8,
+            "isNameObsolete": false
+        },
+        "CustomField__HTTPCalloutConfiguration__mdt.CertificateName__c": {
+            "memberType": "CustomField",
+            "serverRevisionCounter": 9,
+            "lastRetrievedFromServer": 9,
+            "isNameObsolete": false
+        },
+        "CustomField__HTTPCalloutConfiguration__mdt.Endpoint__c": {
+            "memberType": "CustomField",
+            "serverRevisionCounter": 10,
+            "lastRetrievedFromServer": 10,
+            "isNameObsolete": false
+        },
+        "CustomField__HTTPCalloutConfiguration__mdt.HeaderParameters__c": {
+            "memberType": "CustomField",
+            "serverRevisionCounter": 11,
+            "lastRetrievedFromServer": 11,
+            "isNameObsolete": false
+        },
+        "CustomField__HTTPCalloutConfiguration__mdt.IsCompressed__c": {
+            "memberType": "CustomField",
+            "serverRevisionCounter": 12,
+            "lastRetrievedFromServer": 12,
+            "isNameObsolete": false
+        },
+        "CustomField__HTTPCalloutConfiguration__mdt.Method__c": {
+            "memberType": "CustomField",
+            "serverRevisionCounter": 13,
+            "lastRetrievedFromServer": 13,
+            "isNameObsolete": false
+        },
+        "CustomField__HTTPCalloutConfiguration__mdt.Timeout__c": {
+            "memberType": "CustomField",
+            "serverRevisionCounter": 14,
+            "lastRetrievedFromServer": 14,
+            "isNameObsolete": false
+        },
+        "CustomField__HTTPCalloutConfiguration__mdt.URLParameters__c": {
+            "memberType": "CustomField",
+            "serverRevisionCounter": 15,
+            "lastRetrievedFromServer": 15,
+            "isNameObsolete": false
+        },
+        "CustomMetadata__HTTPCalloutConfiguration.SFDCStopBlogs": {
+            "memberType": "CustomMetadata",
+            "serverRevisionCounter": 16,
+            "lastRetrievedFromServer": 16,
+            "isNameObsolete": false
+        },
+        "CustomMetadata__HTTPCalloutConfiguration.TestMetadata": {
+            "memberType": "CustomMetadata",
+            "serverRevisionCounter": 17,
+            "lastRetrievedFromServer": 17,
+            "isNameObsolete": false
+        },
+        "ApexClass__HTTPCalloutAsyncService": {
+            "memberType": "ApexClass",
+            "serverRevisionCounter": 18,
+            "lastRetrievedFromServer": 18,
+            "isNameObsolete": false
+        },
+        "ApexClass__HTTPCalloutAsyncServiceTest": {
+            "memberType": "ApexClass",
+            "serverRevisionCounter": 19,
+            "lastRetrievedFromServer": 19,
+            "isNameObsolete": false
+        },
+        "ApexClass__HTTPCalloutFrameworkException": {
+            "memberType": "ApexClass",
+            "serverRevisionCounter": 20,
+            "lastRetrievedFromServer": 20,
+            "isNameObsolete": false
+        },
+        "ApexClass__HTTPCalloutService": {
+            "memberType": "ApexClass",
+            "serverRevisionCounter": 21,
+            "lastRetrievedFromServer": 21,
+            "isNameObsolete": false
+        },
+        "ApexClass__HTTPCalloutServiceMock": {
+            "memberType": "ApexClass",
+            "serverRevisionCounter": 22,
+            "lastRetrievedFromServer": 22,
+            "isNameObsolete": false
+        },
+        "ApexClass__HTTPCalloutServiceMultiMock": {
+            "memberType": "ApexClass",
+            "serverRevisionCounter": 23,
+            "lastRetrievedFromServer": 23,
+            "isNameObsolete": false
+        },
+        "ApexClass__HTTPCalloutServiceTest": {
+            "memberType": "ApexClass",
+            "serverRevisionCounter": 24,
+            "lastRetrievedFromServer": 24,
+            "isNameObsolete": false
+        },
+        "CustomObject__HTTPCalloutConfiguration__mdt": {
+            "memberType": "CustomObject",
+            "serverRevisionCounter": 25,
+            "lastRetrievedFromServer": 25,
+            "isNameObsolete": false
+        },
+        "ValidationRule__HTTPCalloutConfiguration__mdt.TimeoutLimit": {
+            "memberType": "ValidationRule",
+            "serverRevisionCounter": 26,
+            "lastRetrievedFromServer": 26,
+            "isNameObsolete": false
+        },
+        "Layout__HTTPCalloutConfiguration__mdt-HTTPCalloutConfiguration Layout": {
+            "memberType": "Layout",
+            "serverRevisionCounter": 27,
+            "lastRetrievedFromServer": 27,
+            "isNameObsolete": false
+        },
+        "RemoteSiteSetting__SFDCStopAPI": {
+            "memberType": "RemoteSiteSetting",
+            "serverRevisionCounter": 29,
+            "lastRetrievedFromServer": 29,
+            "isNameObsolete": false
+        },
+        "TransactionSecurityPolicy__sfdc_default_ReportExport_Protection": {
+            "memberType": "TransactionSecurityPolicy",
+            "serverRevisionCounter": 30,
+            "lastRetrievedFromServer": null,
+            "isNameObsolete": false
+        },
+        "ApexClass__AccountController": {
+            "memberType": "ApexClass",
+            "serverRevisionCounter": 40,
+            "lastRetrievedFromServer": 40,
+            "isNameObsolete": false
+        },
+        "ApexClass__AccountControllerTest": {
+            "memberType": "ApexClass",
+            "serverRevisionCounter": 41,
+            "lastRetrievedFromServer": 41,
+            "isNameObsolete": false
+        },
+        "LightningComponentBundle__deleteAccounts2": {
+            "memberType": "LightningComponentBundle",
+            "serverRevisionCounter": 51,
+            "lastRetrievedFromServer": 51,
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__deleteAccounts2/deleteAccounts2.html": {
+            "memberType": "LightningComponentResource",
+            "serverRevisionCounter": 52,
+            "lastRetrievedFromServer": 52,
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__deleteAccounts2/deleteAccounts2.js": {
+            "memberType": "LightningComponentResource",
+            "serverRevisionCounter": 53,
+            "lastRetrievedFromServer": 53,
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__deleteAccounts2/deleteAccounts2.js-meta.xml": {
+            "memberType": "LightningComponentResource",
+            "serverRevisionCounter": 54,
+            "lastRetrievedFromServer": 54,
+            "isNameObsolete": false
+        },
+        "LightningComponentBundle__deleteAccounts3": {
+            "memberType": "LightningComponentBundle",
+            "serverRevisionCounter": 46,
+            "lastRetrievedFromServer": 46,
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__deleteAccounts3/deleteAccounts3.html": {
+            "memberType": "LightningComponentResource",
+            "serverRevisionCounter": 47,
+            "lastRetrievedFromServer": 47,
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__deleteAccounts3/deleteAccounts3.js": {
+            "memberType": "LightningComponentResource",
+            "serverRevisionCounter": 48,
+            "lastRetrievedFromServer": 48,
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__deleteAccounts3/deleteAccounts3.js-meta.xml": {
+            "memberType": "LightningComponentResource",
+            "serverRevisionCounter": 49,
+            "lastRetrievedFromServer": 49,
+            "isNameObsolete": false
+        }
+    }
+}

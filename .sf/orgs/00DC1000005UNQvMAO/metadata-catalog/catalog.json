@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "orgId": "00DC1000005UNQvMAO",
+  "writtenAt": "2026-10-05T11:54:08.870Z",
+  "generation": 51,
+  "inventory": [],
+  "sobjects": {
+    "descriptions": []
+  },
+  "tracking": [
+    {
+      "xmlName": "TransactionSecurityPolicy",
+      "fullName": "sfdc_default_ReportExport_Protection",
+      "signature": "modify\u0000[30,\"2026-10-05T10:00:29.000+0000\",\"0NIC10000008CgjOAE\",false,true]"
+    }
+  ],
+  "metadataTypes": [],
+  "metadataListings": []
+}
