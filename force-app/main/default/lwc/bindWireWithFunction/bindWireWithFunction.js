@@ -21,4 +21,9 @@ export default class BindWireWithFunction extends LightningElement {
             this.accounts=undefined;
         }
     }
+
+    // Wire with Function allows us to handle the Apex response programmatically. 
+    // The wire service provides data and error, and based on the result
+    //  we assign the data to accounts or the error to error. 
+    // It is useful when we need custom logic after receiving the response.
 }
