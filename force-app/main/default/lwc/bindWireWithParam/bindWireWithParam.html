@@ -1,0 +1,18 @@
+<template>
+    <lightning-card title="Bind wire with parameter">
+        <lightning-input label="Search Account" value={searchKey} onchange={handleChange}>
+
+        </lightning-input>
+
+        <template if:true={accounts.data}>
+
+            <template for:each={accounts.data} for:item="account">
+
+                <div key={account.Id} class="slds-m-around_small">
+                    {account.Name}
+                </div>
+
+</template>
+</template>
+    </lightning-card>
+</template>
