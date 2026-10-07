@@ -1,10 +1,10 @@
 {
     "fileVersion": 0,
-    "serverMaxRevisionCounter": 54,
+    "serverMaxRevisionCounter": 164,
     "sourceMembers": {
         "Profile__Admin": {
             "memberType": "Profile",
-            "serverRevisionCounter": 50,
+            "serverRevisionCounter": 64,
             "lastRetrievedFromServer": 50,
             "isNameObsolete": false
         },
@@ -154,26 +154,26 @@
         },
         "LightningComponentBundle__deleteAccounts2": {
             "memberType": "LightningComponentBundle",
-            "serverRevisionCounter": 51,
-            "lastRetrievedFromServer": 51,
+            "serverRevisionCounter": 126,
+            "lastRetrievedFromServer": 126,
             "isNameObsolete": false
         },
         "LightningComponentResource__deleteAccounts2/deleteAccounts2.html": {
             "memberType": "LightningComponentResource",
-            "serverRevisionCounter": 52,
-            "lastRetrievedFromServer": 52,
+            "serverRevisionCounter": 127,
+            "lastRetrievedFromServer": 127,
             "isNameObsolete": false
         },
         "LightningComponentResource__deleteAccounts2/deleteAccounts2.js": {
             "memberType": "LightningComponentResource",
-            "serverRevisionCounter": 53,
-            "lastRetrievedFromServer": 53,
+            "serverRevisionCounter": 128,
+            "lastRetrievedFromServer": 128,
             "isNameObsolete": false
         },
         "LightningComponentResource__deleteAccounts2/deleteAccounts2.js-meta.xml": {
             "memberType": "LightningComponentResource",
-            "serverRevisionCounter": 54,
-            "lastRetrievedFromServer": 54,
+            "serverRevisionCounter": 129,
+            "lastRetrievedFromServer": 129,
             "isNameObsolete": false
         },
         "LightningComponentBundle__deleteAccounts3": {
@@ -198,6 +198,108 @@
             "memberType": "LightningComponentResource",
             "serverRevisionCounter": 49,
             "lastRetrievedFromServer": 49,
+            "isNameObsolete": false
+        },
+        "FlexiPage__Lightning_page_for_Testing_component": {
+            "memberType": "FlexiPage",
+            "serverRevisionCounter": 144,
+            "lastRetrievedFromServer": null,
+            "isNameObsolete": false
+        },
+        "CustomTab__Lightning_page_for_Testing_component": {
+            "memberType": "CustomTab",
+            "serverRevisionCounter": 103,
+            "lastRetrievedFromServer": null,
+            "isNameObsolete": false
+        },
+        "Profile__B2B Reordering Portal Buyer Profile": {
+            "memberType": "Profile",
+            "serverRevisionCounter": 65,
+            "lastRetrievedFromServer": null,
+            "isNameObsolete": false
+        },
+        "CustomApplication__standard__Approvals": {
+            "memberType": "CustomApplication",
+            "serverRevisionCounter": 67,
+            "lastRetrievedFromServer": null,
+            "isNameObsolete": false
+        },
+        "CustomApplication__standard__LightningSales": {
+            "memberType": "CustomApplication",
+            "serverRevisionCounter": 81,
+            "lastRetrievedFromServer": null,
+            "isNameObsolete": false
+        },
+        "LightningComponentBundle__bindImperativeMethod2": {
+            "memberType": "LightningComponentBundle",
+            "serverRevisionCounter": 161,
+            "lastRetrievedFromServer": 161,
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__bindImperativeMethod2/bindImperativeMethod2.js-meta.xml": {
+            "memberType": "LightningComponentResource",
+            "serverRevisionCounter": 162,
+            "lastRetrievedFromServer": 162,
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__bindImperativeMethod2/bindImperativeMethod2.html": {
+            "memberType": "LightningComponentResource",
+            "serverRevisionCounter": 163,
+            "lastRetrievedFromServer": 163,
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__bindImperativeMethod2/bindImperativeMethod2.js": {
+            "memberType": "LightningComponentResource",
+            "serverRevisionCounter": 164,
+            "lastRetrievedFromServer": 164,
+            "isNameObsolete": false
+        },
+        "LightningComponentBundle__bindWireWithFunction": {
+            "memberType": "LightningComponentBundle",
+            "serverRevisionCounter": 130,
+            "lastRetrievedFromServer": 130,
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__bindWireWithFunction/bindWireWithFunction.html": {
+            "memberType": "LightningComponentResource",
+            "serverRevisionCounter": 131,
+            "lastRetrievedFromServer": 131,
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__bindWireWithFunction/bindWireWithFunction.js": {
+            "memberType": "LightningComponentResource",
+            "serverRevisionCounter": 132,
+            "lastRetrievedFromServer": 132,
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__bindWireWithFunction/bindWireWithFunction.js-meta.xml": {
+            "memberType": "LightningComponentResource",
+            "serverRevisionCounter": 133,
+            "lastRetrievedFromServer": 133,
+            "isNameObsolete": false
+        },
+        "LightningComponentBundle__bindWireWithProperty": {
+            "memberType": "LightningComponentBundle",
+            "serverRevisionCounter": 122,
+            "lastRetrievedFromServer": 122,
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__bindWireWithProperty/bindWireWithProperty.js": {
+            "memberType": "LightningComponentResource",
+            "serverRevisionCounter": 123,
+            "lastRetrievedFromServer": 123,
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__bindWireWithProperty/bindWireWithProperty.js-meta.xml": {
+            "memberType": "LightningComponentResource",
+            "serverRevisionCounter": 124,
+            "lastRetrievedFromServer": 124,
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__bindWireWithProperty/bindWireWithProperty.html": {
+            "memberType": "LightningComponentResource",
+            "serverRevisionCounter": 125,
+            "lastRetrievedFromServer": 125,
             "isNameObsolete": false
         }
     }

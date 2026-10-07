@@ -1,0 +1,21 @@
+<template>
+    <lightning-card title="Bind using imperative method">
+        <div class="slds-m-around_small">
+        <lightning-button label="Get Accounts" onclick={buttonClickHandler} class="slds-m-around_small">
+            
+        </lightning-button>
+                </div>
+        <template if:true={accounts}>
+
+            <template for:each={accounts} for:item="account">
+
+                <div key={account.Id} class="slds-m-around_small">
+                    {account.Name}
+                </div>
+
+            </template>
+
+        </template>
+
+    </lightning-card>
+</template>

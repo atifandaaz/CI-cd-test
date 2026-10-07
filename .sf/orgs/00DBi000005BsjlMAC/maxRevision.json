@@ -1,6 +1,6 @@
 {
     "fileVersion": 0,
-    "serverMaxRevisionCounter": 178,
+    "serverMaxRevisionCounter": 190,
     "sourceMembers": {
         "Profile__Admin": {
             "memberType": "Profile",
@@ -274,26 +274,50 @@
         },
         "LightningComponentBundle__bindWireWithFunction": {
             "memberType": "LightningComponentBundle",
-            "serverRevisionCounter": 175,
-            "lastRetrievedFromServer": 175,
+            "serverRevisionCounter": 179,
+            "lastRetrievedFromServer": 179,
             "isNameObsolete": false
         },
         "LightningComponentResource__bindWireWithFunction/bindWireWithFunction.js": {
             "memberType": "LightningComponentResource",
-            "serverRevisionCounter": 176,
-            "lastRetrievedFromServer": 176,
+            "serverRevisionCounter": 180,
+            "lastRetrievedFromServer": 180,
             "isNameObsolete": false
         },
         "LightningComponentResource__bindWireWithFunction/bindWireWithFunction.js-meta.xml": {
             "memberType": "LightningComponentResource",
-            "serverRevisionCounter": 177,
-            "lastRetrievedFromServer": 177,
+            "serverRevisionCounter": 181,
+            "lastRetrievedFromServer": 181,
             "isNameObsolete": false
         },
         "LightningComponentResource__bindWireWithFunction/bindWireWithFunction.html": {
             "memberType": "LightningComponentResource",
-            "serverRevisionCounter": 178,
-            "lastRetrievedFromServer": 178,
+            "serverRevisionCounter": 182,
+            "lastRetrievedFromServer": 182,
+            "isNameObsolete": false
+        },
+        "LightningComponentBundle__bindImperativeMethod2": {
+            "memberType": "LightningComponentBundle",
+            "serverRevisionCounter": 187,
+            "lastRetrievedFromServer": 187,
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__bindImperativeMethod2/bindImperativeMethod2.html": {
+            "memberType": "LightningComponentResource",
+            "serverRevisionCounter": 188,
+            "lastRetrievedFromServer": 188,
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__bindImperativeMethod2/bindImperativeMethod2.js": {
+            "memberType": "LightningComponentResource",
+            "serverRevisionCounter": 189,
+            "lastRetrievedFromServer": 189,
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__bindImperativeMethod2/bindImperativeMethod2.js-meta.xml": {
+            "memberType": "LightningComponentResource",
+            "serverRevisionCounter": 190,
+            "lastRetrievedFromServer": 190,
             "isNameObsolete": false
         }
     }
