@@ -1,0 +1,32 @@
+<template>
+    <div class="parent-container">
+
+        <lightning-card
+            title="I am Parent with Nesting Component"
+            icon-name="utility:user">
+
+            <lightning-input
+                label="Enter Account Name"
+                onchange={handleSearch}>
+            </lightning-input>
+
+            <template if:true={myAccounts}>
+
+                <template for:each={myAccounts} for:item="account">
+
+                    <div key={account.Id} class="slds-m-around_medium">
+
+                        <c-child-component-basic
+                            is-child-component-visible={account}>
+                        </c-child-component-basic>
+
+                    </div>
+
+                </template>
+
+            </template>
+
+        </lightning-card>
+
+    </div>
+</template>

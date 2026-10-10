@@ -12,10 +12,64 @@
         <template if:true={accounts}>
             <template for:each={accounts} for:item="account">
                 <div key={account.Id} class="slds-m-around_small">
-                    {account.Name}
+                    <b>
+                    Account name: {account.Name} <br/>
+
+                    Phone: {account.Phone}
+
+                    </b>
+                  
                 </div>
             </template>
         </template>
         
     </lightning-card>
+    <!-- USER OPENS THE COMPONENT
+                 |
+                 ▼
+       SEARCH INPUT IS DISPLAYED
+                 |
+                 ▼
+       USER TYPES "Tech"
+                 |
+                 ▼
+       handleChange(event) EXECUTES
+                 |
+                 ▼
+       this.searchKey = "Tech"
+                 |
+                 ▼
+       USER CLICKS SEARCH BUTTON
+                 |
+                 ▼
+       handleSearch() EXECUTES
+                 |
+                 ▼
+       getAccountsByName({
+           name: this.searchKey
+       })
+                 |
+                 ▼
+       APEX RECEIVES name = "Tech"
+                 |
+                 ▼
+       SOQL QUERY SEARCHES ACCOUNTS
+                 |
+                 ▼
+       APEX RETURNS MATCHING RECORDS
+                 |
+                 ▼
+       .then((result) => ...)
+                 |
+                 ▼
+       this.accounts = result
+                 |
+                 ▼
+       LWC UPDATES THE HTML
+                 |
+                 ▼
+       for:each ITERATES THE RESULTS
+                 |
+                 ▼
+       ACCOUNT NAMES DISPLAYED -->
 </template>

@@ -1,0 +1,19 @@
+<template>
+     <div class="parent-container">
+
+    <lightning-card title=" I am Parent Component" icon-name="utility:user" style="width: 400px; height: 400px;">
+
+        <template if:true={parentData}>
+        
+            <div class="slds-m-around_medium">
+             
+                <c-child-component-basic is-child-component-visible={parentData}>
+
+                </c-child-component-basic>
+            </div>
+        </template>
+    
+    </lightning-card>
+    
+     </div>
+</template>

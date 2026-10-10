@@ -13,7 +13,7 @@ return [
 
     String searchName = '%' + name + '%';
     return [
-    SELECT Id, Name, CreatedDate
+    SELECT Id, Name,Phone, CreatedDate
     FROM Account
     WHERE Name LIKE :searchName
     ORDER BY CreatedDate DESC

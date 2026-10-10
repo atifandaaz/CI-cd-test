@@ -1,0 +1,14 @@
+<template>
+
+    <lightning-card title="I am listening" icon-name="utility:user" variant="base">
+      <div class="slds-m-around_medium">
+        <b>Count of click: {count}</b>
+
+        <c-child-component-comunication onincreasecount={handleIncreaseCount}>
+            
+        </c-child-component-comunication>
+      </div>
+
+    </lightning-card>
+    
+</template>

@@ -1,0 +1,22 @@
+<template>
+    <div class="parent-container">
+
+        <lightning-card
+            title="I am Child Component"
+            icon-name="utility:user">
+
+            <template if:true={isChildComponentVisible}>
+
+                <div class="slds-m-around_medium">
+                    <b>
+                        Name: {isChildComponentVisible.Name}<br>
+                        Phone: {isChildComponentVisible.Phone}<br>
+                    </b>
+                </div>
+
+            </template>
+
+        </lightning-card>
+
+    </div>
+</template>

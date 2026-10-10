@@ -1,17 +1,67 @@
 {
   "version": 2,
   "orgId": "00DC1000005UNQvMAO",
-  "writtenAt": "2026-10-05T11:54:08.870Z",
-  "generation": 51,
+  "writtenAt": "2026-10-10T12:36:16.346Z",
+  "generation": 132,
   "inventory": [],
   "sobjects": {
     "descriptions": []
   },
   "tracking": [
     {
+      "xmlName": "CustomApplication",
+      "fullName": "standard__Approvals",
+      "signature": "add\u0000[67,\"unknown\",\"unknown\",false,false]"
+    },
+    {
+      "xmlName": "CustomApplication",
+      "fullName": "standard__LightningSales",
+      "signature": "add\u0000[390,\"unknown\",\"unknown\",false,false]"
+    },
+    {
+      "xmlName": "CustomTab",
+      "fullName": "Lightning_page_for_Testing_component",
+      "signature": "add\u0000[103,\"unknown\",\"unknown\",false,false]"
+    },
+    {
+      "xmlName": "CustomTab",
+      "fullName": "NewParent_child_comp_Page",
+      "signature": "add\u0000[705,\"unknown\",\"unknown\",false,false]"
+    },
+    {
+      "xmlName": "CustomTab",
+      "fullName": "standard-home",
+      "signature": "add\u0000[797,\"2026-10-09T14:08:38.000+0000\",\"standard-home\",false,false]"
+    },
+    {
+      "xmlName": "FlexiPage",
+      "fullName": "EventTest1",
+      "signature": "modify\u0000[833,\"2026-10-10T12:08:21.000+0000\",\"0M0C1000000pb3xKAA\",false,true]"
+    },
+    {
+      "xmlName": "FlexiPage",
+      "fullName": "Lightning_page_for_Testing_component",
+      "signature": "modify\u0000[879,\"2026-10-10T12:15:40.000+0000\",\"0M0C1000000oZtpKAE\",false,true]"
+    },
+    {
+      "xmlName": "FlexiPage",
+      "fullName": "NewParent_child_comp_Page",
+      "signature": "modify\u0000[787,\"2026-10-09T14:07:37.000+0000\",\"0M0C1000000pJyHKAU\",false,true]"
+    },
+    {
+      "xmlName": "Profile",
+      "fullName": "Admin",
+      "signature": "modify\u0000[674,\"unknown\",\"unknown\",false,false]"
+    },
+    {
+      "xmlName": "Profile",
+      "fullName": "B2B Reordering Portal Buyer Profile",
+      "signature": "add\u0000[388,\"unknown\",\"unknown\",false,false]"
+    },
+    {
       "xmlName": "TransactionSecurityPolicy",
       "fullName": "sfdc_default_ReportExport_Protection",
-      "signature": "modify\u0000[30,\"2026-10-05T10:00:29.000+0000\",\"0NIC10000008CgjOAE\",false,true]"
+      "signature": "add\u0000[30,\"unknown\",\"unknown\",false,false]"
     }
   ],
   "metadataTypes": [],
