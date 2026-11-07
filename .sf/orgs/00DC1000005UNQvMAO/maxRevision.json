@@ -1,10 +1,10 @@
 {
     "fileVersion": 0,
-    "serverMaxRevisionCounter": 1220,
+    "serverMaxRevisionCounter": 2634,
     "sourceMembers": {
         "Profile__Admin": {
             "memberType": "Profile",
-            "serverRevisionCounter": 1111,
+            "serverRevisionCounter": 2624,
             "lastRetrievedFromServer": 674,
             "isNameObsolete": false
         },
@@ -154,26 +154,26 @@
         },
         "LightningComponentBundle__deleteAccounts2": {
             "memberType": "LightningComponentBundle",
-            "serverRevisionCounter": 126,
-            "lastRetrievedFromServer": 126,
+            "serverRevisionCounter": 1418,
+            "lastRetrievedFromServer": 1418,
             "isNameObsolete": false
         },
         "LightningComponentResource__deleteAccounts2/deleteAccounts2.html": {
             "memberType": "LightningComponentResource",
-            "serverRevisionCounter": 127,
-            "lastRetrievedFromServer": 127,
+            "serverRevisionCounter": 1419,
+            "lastRetrievedFromServer": 1419,
             "isNameObsolete": false
         },
         "LightningComponentResource__deleteAccounts2/deleteAccounts2.js": {
             "memberType": "LightningComponentResource",
-            "serverRevisionCounter": 128,
-            "lastRetrievedFromServer": 128,
+            "serverRevisionCounter": 1420,
+            "lastRetrievedFromServer": 1420,
             "isNameObsolete": false
         },
         "LightningComponentResource__deleteAccounts2/deleteAccounts2.js-meta.xml": {
             "memberType": "LightningComponentResource",
-            "serverRevisionCounter": 129,
-            "lastRetrievedFromServer": 129,
+            "serverRevisionCounter": 1421,
+            "lastRetrievedFromServer": 1421,
             "isNameObsolete": false
         },
         "LightningComponentBundle__deleteAccounts3": {
@@ -202,19 +202,19 @@
         },
         "FlexiPage__Lightning_page_for_Testing_component": {
             "memberType": "FlexiPage",
-            "serverRevisionCounter": 1220,
+            "serverRevisionCounter": 1355,
             "lastRetrievedFromServer": 879,
             "isNameObsolete": false
         },
         "CustomTab__Lightning_page_for_Testing_component": {
             "memberType": "CustomTab",
-            "serverRevisionCounter": 103,
+            "serverRevisionCounter": 1349,
             "lastRetrievedFromServer": 103,
             "isNameObsolete": false
         },
         "Profile__B2B Reordering Portal Buyer Profile": {
             "memberType": "Profile",
-            "serverRevisionCounter": 946,
+            "serverRevisionCounter": 2243,
             "lastRetrievedFromServer": 388,
             "isNameObsolete": false
         },
@@ -226,7 +226,7 @@
         },
         "CustomApplication__standard__LightningSales": {
             "memberType": "CustomApplication",
-            "serverRevisionCounter": 390,
+            "serverRevisionCounter": 2247,
             "lastRetrievedFromServer": 390,
             "isNameObsolete": false
         },
@@ -400,7 +400,7 @@
         },
         "FlexiPage__NewParent_child_comp_Page": {
             "memberType": "FlexiPage",
-            "serverRevisionCounter": 787,
+            "serverRevisionCounter": 1583,
             "lastRetrievedFromServer": 787,
             "isNameObsolete": false
         },
@@ -550,13 +550,13 @@
         },
         "ApexClass__OpportunityTriggerHandler": {
             "memberType": "ApexClass",
-            "serverRevisionCounter": 1042,
+            "serverRevisionCounter": 1595,
             "lastRetrievedFromServer": 1042,
             "isNameObsolete": false
         },
         "ApexTrigger__opportunityUpdateToClosedWon": {
             "memberType": "ApexTrigger",
-            "serverRevisionCounter": 902,
+            "serverRevisionCounter": 2622,
             "lastRetrievedFromServer": 902,
             "isNameObsolete": false
         },
@@ -610,7 +610,7 @@
         },
         "FlexiPage__LWC_Hooks": {
             "memberType": "FlexiPage",
-            "serverRevisionCounter": 1017,
+            "serverRevisionCounter": 1401,
             "lastRetrievedFromServer": null,
             "isNameObsolete": false
         },
@@ -628,7 +628,7 @@
         },
         "ApexTrigger__AccountTrigger": {
             "memberType": "ApexTrigger",
-            "serverRevisionCounter": 1025,
+            "serverRevisionCounter": 1230,
             "lastRetrievedFromServer": 1025,
             "isNameObsolete": false
         },
@@ -666,6 +666,162 @@
             "memberType": "LightningComponentResource",
             "serverRevisionCounter": 1198,
             "lastRetrievedFromServer": 1198,
+            "isNameObsolete": false
+        },
+        "ApexTrigger__MaxOpportunityAmountToAccount": {
+            "memberType": "ApexTrigger",
+            "serverRevisionCounter": 1229,
+            "lastRetrievedFromServer": null,
+            "isNameObsolete": false
+        },
+        "ApexTrigger__MaxOpportunityAmountToAccount2": {
+            "memberType": "ApexTrigger",
+            "serverRevisionCounter": 2621,
+            "lastRetrievedFromServer": null,
+            "isNameObsolete": false
+        },
+        "MatchingRule__Account.Account_Name_Exact_Match": {
+            "memberType": "MatchingRule",
+            "serverRevisionCounter": 1423,
+            "lastRetrievedFromServer": null,
+            "isNameObsolete": false
+        },
+        "DuplicateRule__Account.Block_Duplicate_Account_Name": {
+            "memberType": "DuplicateRule",
+            "serverRevisionCounter": 1425,
+            "lastRetrievedFromServer": null,
+            "isNameObsolete": false
+        },
+        "LightningComponentBundle__childToParentCommunicationWithData": {
+            "memberType": "LightningComponentBundle",
+            "serverRevisionCounter": 1538,
+            "lastRetrievedFromServer": 1538,
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__childToParentCommunicationWithData/childToParentCommunicationWithData.js": {
+            "memberType": "LightningComponentResource",
+            "serverRevisionCounter": 1539,
+            "lastRetrievedFromServer": 1539,
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__childToParentCommunicationWithData/childToParentCommunicationWithData.js-meta.xml": {
+            "memberType": "LightningComponentResource",
+            "serverRevisionCounter": 1540,
+            "lastRetrievedFromServer": 1540,
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__childToParentCommunicationWithData/childToParentCommunicationWithData.html": {
+            "memberType": "LightningComponentResource",
+            "serverRevisionCounter": 1541,
+            "lastRetrievedFromServer": 1541,
+            "isNameObsolete": false
+        },
+        "LightningComponentBundle__parenComponentCommunicationWithData": {
+            "memberType": "LightningComponentBundle",
+            "serverRevisionCounter": 1514,
+            "lastRetrievedFromServer": 1514,
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__parenComponentCommunicationWithData/parenComponentCommunicationWithData.js-meta.xml": {
+            "memberType": "LightningComponentResource",
+            "serverRevisionCounter": 1515,
+            "lastRetrievedFromServer": 1515,
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__parenComponentCommunicationWithData/parenComponentCommunicationWithData.html": {
+            "memberType": "LightningComponentResource",
+            "serverRevisionCounter": 1516,
+            "lastRetrievedFromServer": 1516,
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__parenComponentCommunicationWithData/parenComponentCommunicationWithData.js": {
+            "memberType": "LightningComponentResource",
+            "serverRevisionCounter": 1517,
+            "lastRetrievedFromServer": 1517,
+            "isNameObsolete": false
+        },
+        "GenOpAgentConfig__Create_Opportunity_on_Account": {
+            "memberType": "GenOpAgentConfig",
+            "serverRevisionCounter": 1712,
+            "lastRetrievedFromServer": null,
+            "isNameObsolete": false
+        },
+        "Flow__Create_Opportunity_on_Account": {
+            "memberType": "Flow",
+            "serverRevisionCounter": 1711,
+            "lastRetrievedFromServer": null,
+            "isNameObsolete": false
+        },
+        "FlexiPage__Account_Record_Page": {
+            "memberType": "FlexiPage",
+            "serverRevisionCounter": 2481,
+            "lastRetrievedFromServer": null,
+            "isNameObsolete": false
+        },
+        "GenOpAgentConfig__Create_Case_throu_FLOW": {
+            "memberType": "GenOpAgentConfig",
+            "serverRevisionCounter": 2108,
+            "lastRetrievedFromServer": null,
+            "isNameObsolete": false
+        },
+        "Flow__Create_Case_throu_FLOW": {
+            "memberType": "Flow",
+            "serverRevisionCounter": 2107,
+            "lastRetrievedFromServer": null,
+            "isNameObsolete": false
+        },
+        "QuickAction__Account.Create_Case_Thru_Flow": {
+            "memberType": "QuickAction",
+            "serverRevisionCounter": 1875,
+            "lastRetrievedFromServer": null,
+            "isNameObsolete": false
+        },
+        "Layout__Account-Account Layout": {
+            "memberType": "Layout",
+            "serverRevisionCounter": 2040,
+            "lastRetrievedFromServer": null,
+            "isNameObsolete": false
+        },
+        "ApexEmailNotifications__apexEmailNotifications": {
+            "memberType": "ApexEmailNotifications",
+            "serverRevisionCounter": 2109,
+            "lastRetrievedFromServer": null,
+            "isNameObsolete": false
+        },
+        "FlexiPage__Create_Contact_Case_Opp": {
+            "memberType": "FlexiPage",
+            "serverRevisionCounter": 2277,
+            "lastRetrievedFromServer": null,
+            "isNameObsolete": false
+        },
+        "GenOpAgentConfig__Create_Case_or_Contact_or_Opportuity": {
+            "memberType": "GenOpAgentConfig",
+            "serverRevisionCounter": 2619,
+            "lastRetrievedFromServer": null,
+            "isNameObsolete": false
+        },
+        "Flow__Create_Case_or_Contact_or_Opportuity": {
+            "memberType": "Flow",
+            "serverRevisionCounter": 2618,
+            "lastRetrievedFromServer": null,
+            "isNameObsolete": false
+        },
+        "CustomTab__Create_Contact_Case_Opp": {
+            "memberType": "CustomTab",
+            "serverRevisionCounter": 2279,
+            "lastRetrievedFromServer": null,
+            "isNameObsolete": false
+        },
+        "ApexClass__TriggerHandler": {
+            "memberType": "ApexClass",
+            "serverRevisionCounter": 2634,
+            "lastRetrievedFromServer": null,
+            "isNameObsolete": false
+        },
+        "ApexTrigger__MaxAmountOppNameToAccount": {
+            "memberType": "ApexTrigger",
+            "serverRevisionCounter": 2630,
+            "lastRetrievedFromServer": null,
             "isNameObsolete": false
         }
     }

@@ -1,8 +1,8 @@
 {
   "version": 2,
   "orgId": "00DC1000005UNQvMAO",
-  "writtenAt": "2026-10-21T13:35:07.330Z",
-  "generation": 1291,
+  "writtenAt": "2026-11-07T20:09:12.918Z",
+  "generation": 2000,
   "inventory": [],
   "sobjects": {
     "list": [
@@ -11459,9 +11459,59 @@
   },
   "tracking": [
     {
+      "xmlName": "ApexClass",
+      "fullName": "OpportunityTriggerHandler",
+      "signature": "modify\u0000[1595,\"unknown\",\"unknown\",false,false]"
+    },
+    {
+      "xmlName": "ApexClass",
+      "fullName": "TriggerHandler",
+      "signature": "add\u0000[2634,\"unknown\",\"unknown\",false,false]"
+    },
+    {
+      "xmlName": "ApexEmailNotifications",
+      "fullName": "apexEmailNotifications",
+      "signature": "add\u0000[2109,\"unknown\",\"unknown\",false,false]"
+    },
+    {
+      "xmlName": "ApexTrigger",
+      "fullName": "AccountTrigger",
+      "signature": "modify\u0000[1230,\"unknown\",\"unknown\",false,false]"
+    },
+    {
+      "xmlName": "ApexTrigger",
+      "fullName": "MaxAmountOppNameToAccount",
+      "signature": "add\u0000[2630,\"unknown\",\"unknown\",false,false]"
+    },
+    {
+      "xmlName": "ApexTrigger",
+      "fullName": "MaxOpportunityAmountToAccount",
+      "signature": "add\u0000[1229,\"unknown\",\"unknown\",false,false]"
+    },
+    {
+      "xmlName": "ApexTrigger",
+      "fullName": "MaxOpportunityAmountToAccount2",
+      "signature": "add\u0000[2621,\"unknown\",\"unknown\",false,false]"
+    },
+    {
+      "xmlName": "ApexTrigger",
+      "fullName": "opportunityUpdateToClosedWon",
+      "signature": "modify\u0000[2622,\"unknown\",\"unknown\",false,false]"
+    },
+    {
       "xmlName": "AppMenu",
       "fullName": "AppSwitcher",
       "signature": "add\u0000[896,\"unknown\",\"unknown\",false,false]"
+    },
+    {
+      "xmlName": "CustomApplication",
+      "fullName": "standard__LightningSales",
+      "signature": "modify\u0000[2247,\"unknown\",\"unknown\",false,false]"
+    },
+    {
+      "xmlName": "CustomTab",
+      "fullName": "Create_Contact_Case_Opp",
+      "signature": "add\u0000[2279,\"unknown\",\"unknown\",false,false]"
     },
     {
       "xmlName": "CustomTab",
@@ -11469,19 +11519,69 @@
       "signature": "add\u0000[944,\"unknown\",\"unknown\",false,false]"
     },
     {
+      "xmlName": "CustomTab",
+      "fullName": "Lightning_page_for_Testing_component",
+      "signature": "modify\u0000[1349,\"unknown\",\"unknown\",false,false]"
+    },
+    {
+      "xmlName": "DuplicateRule",
+      "fullName": "Account.Block_Duplicate_Account_Name",
+      "signature": "add\u0000[1425,\"unknown\",\"unknown\",false,false]"
+    },
+    {
+      "xmlName": "FlexiPage",
+      "fullName": "Account_Record_Page",
+      "signature": "add\u0000[2481,\"unknown\",\"unknown\",false,false]"
+    },
+    {
+      "xmlName": "FlexiPage",
+      "fullName": "Create_Contact_Case_Opp",
+      "signature": "add\u0000[2277,\"unknown\",\"unknown\",false,false]"
+    },
+    {
       "xmlName": "FlexiPage",
       "fullName": "LWC_Hooks",
-      "signature": "add\u0000[1017,\"unknown\",\"unknown\",false,false]"
+      "signature": "add\u0000[1401,\"unknown\",\"unknown\",false,false]"
     },
     {
       "xmlName": "FlexiPage",
       "fullName": "Lightning_page_for_Testing_component",
-      "signature": "modify\u0000[1220,\"unknown\",\"unknown\",false,false]"
+      "signature": "modify\u0000[1355,\"unknown\",\"unknown\",false,false]"
+    },
+    {
+      "xmlName": "FlexiPage",
+      "fullName": "NewParent_child_comp_Page",
+      "signature": "modify\u0000[1583,\"unknown\",\"unknown\",false,false]"
+    },
+    {
+      "xmlName": "Flow",
+      "fullName": "Create_Case_or_Contact_or_Opportuity",
+      "signature": "add\u0000[2618,\"unknown\",\"unknown\",false,false]"
+    },
+    {
+      "xmlName": "Flow",
+      "fullName": "Create_Case_throu_FLOW",
+      "signature": "add\u0000[2107,\"unknown\",\"unknown\",false,false]"
+    },
+    {
+      "xmlName": "Flow",
+      "fullName": "Create_Opportunity_on_Account",
+      "signature": "add\u0000[1711,\"unknown\",\"unknown\",false,false]"
+    },
+    {
+      "xmlName": "Layout",
+      "fullName": "Account-Account Layout",
+      "signature": "add\u0000[2040,\"unknown\",\"unknown\",false,false]"
     },
     {
       "xmlName": "LightningComponentBundle",
       "fullName": "lifecycleDemo",
       "signature": "modify\u0000[913,\"unknown\",\"unknown\",false,false]"
+    },
+    {
+      "xmlName": "MatchingRule",
+      "fullName": "Account.Account_Name_Exact_Match",
+      "signature": "add\u0000[1423,\"unknown\",\"unknown\",false,false]"
     },
     {
       "xmlName": "PermissionSet",
@@ -11491,12 +11591,17 @@
     {
       "xmlName": "Profile",
       "fullName": "Admin",
-      "signature": "modify\u0000[1111,\"unknown\",\"unknown\",false,false]"
+      "signature": "modify\u0000[2624,\"unknown\",\"unknown\",false,false]"
     },
     {
       "xmlName": "Profile",
       "fullName": "B2B Reordering Portal Buyer Profile",
-      "signature": "modify\u0000[946,\"unknown\",\"unknown\",false,false]"
+      "signature": "modify\u0000[2243,\"unknown\",\"unknown\",false,false]"
+    },
+    {
+      "xmlName": "QuickAction",
+      "fullName": "Account.Create_Case_Thru_Flow",
+      "signature": "add\u0000[1875,\"unknown\",\"unknown\",false,false]"
     },
     {
       "xmlName": "Settings",

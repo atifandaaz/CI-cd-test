@@ -1,7 +1,7 @@
 
 <template>
     <lightning-card title="Recent Accounts">
-
+        <template if:true={accounts}>
         <template for:each={accounts} for:item="account">
             <div key={account.Id} class="slds-m-around_small">
 
@@ -10,12 +10,13 @@
                 <lightning-button
                     label="Delete"
                     variant="destructive"
-                    data-id={account.Id}
+                   data-record-id={account.Id}
                     onclick={deleteAccount}>
                 </lightning-button>
 
             </div>
         </template>
+    </template>
 
         <template if:true={noAccounts}>
             <p class="slds-m-around_small">
