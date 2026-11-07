@@ -1,0 +1,28 @@
+<template>
+    <lightning-card title="My Component 01" icon-name="custom:custom63">
+        <div class="slds-m-around_medium">
+            <p>This is Not my first Lightning Web Component.</p>
+            <!-- <lightning-button label="Click Me to Get Account" onclick={handleClick}>
+
+            </lightning-button> -->
+            <lightning-input
+                label="Search Accounts"
+                placeholder="Enter account name..."
+                value={searchKey}
+                onchange={handleSearchKeyChange}
+            >
+            </lightning-input>
+        </div>
+        <div>
+            <template if:true={accounts} >
+                <template for:each={accounts} for:item="acc">
+                    <!-- <p key={acc.Id}> {acc.Name}</p> -->
+                     <div key={acc.id} >
+                        <b>{acc.Name}</b>
+
+                     </div>
+                </template>
+            </template>
+        </div>
+        </lightning-card>   
+</template>
